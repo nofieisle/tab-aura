@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Test results
+test-results/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Claude Code local settings
+.claude/
+
+# Environment variables
+.env
+.env.*
+
+# Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
